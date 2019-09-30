@@ -16,7 +16,7 @@
 title: The Josh Report
 email: smithjosh024@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  This site is simply to show off some of the things I've done and written.
+  This site is to show off some of my work and thoughts.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://thejoshreport.com" # the base hostname & protocol for your site, e.g. http://example.com
 instagram_username: joshsmith000
